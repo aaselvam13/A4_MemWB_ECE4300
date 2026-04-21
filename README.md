@@ -14,3 +14,7 @@ mem_wb.v - output latch
 memory.v - top module for memory stage
 
 memory_tb.v - test bench testing memory stage
+
+#Test Bench Run Results:
+
+![Screeenshot](Screenshot 2026-04-21 003343.png)
