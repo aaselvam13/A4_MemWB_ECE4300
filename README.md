@@ -15,6 +15,6 @@ memory.v - top module for memory stage
 
 memory_tb.v - test bench testing memory stage
 
-#Test Bench Run Results:
+# Test Bench Run Results:
 
 ![Screeenshot](Screenshot%202026-04-21%20003343.png)
