@@ -17,4 +17,4 @@ memory_tb.v - test bench testing memory stage
 
 #Test Bench Run Results:
 
-![Screeenshot]("Screenshot 2026-04-21 003343.png")
+![Screeenshot](Screenshot%202026-04-21%20003343.png)
